@@ -1,3 +1,4 @@
+I dont know what this is for but its a good sample for a graph- pretty simple
 ```mermaid
 journey
 	title IPFS Node Statistics
